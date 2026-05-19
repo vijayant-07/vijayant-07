@@ -1,27 +1,159 @@
 <h1 align="center">Hi 👋, I'm Vijayant Singh</h1>
-<h3 align="center">An Aspiring Software developer from India</h3>
+<h3 align="center">Backend Engineer | Distributed Systems | Scalable Financial Systems</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayant-07&label=Profile%20views&color=0e75b6&style=flat" alt="vijayant-07" /> </p>
-
-- 🔭 I’m currently working on **Making different Projects**
-
-- 🌱 I’m currently learning **ReactJs, NodeJs, MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vijayant-07](https://github.com/vijayant-07)
-
-- 📫 How to reach me **vijayantsingh123@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vijayant-singh-824ba9200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijayant singh" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vijayant-07&label=Profile%20views&color=0e75b6&style=flat" alt="vijayant-07" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayant-07&show_icons=true&locale=en&layout=compact" alt="vijayant-07" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijayant-07&show_icons=true&locale=en" alt="vijayant-07" /></p>
+- 💼 Software Engineer at **Affinsys AI**
+- 🌍 Working on enterprise banking systems deployed across **4 countries**
+- ⚙️ Building scalable backend systems, distributed architectures, and financial platforms
+- 🔄 Experienced with asynchronous systems using **Celery, Redis, RabbitMQ, and NATS**
+- 🧠 Interested in **System Design, Distributed Systems, AI Engineering, and High Scale Backend Architectures**
+- 📚 Strong foundation in **DSA, Algorithms, Databases, and Scalable API Design**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayant-07&" alt="vijayant-07" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+</p>
+
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
+
+### Databases & Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,rabbitmq" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+</p>
+
+---
+
+## 💼 Experience
+
+### Software Engineer — Affinsys AI
+📍 Bengaluru, India | 🗓️ July 2024 – Present
+
+- Delivered an end-to-end transaction processing system supporting:
+  - Cash deposits
+  - Withdrawals
+  - High-volume banking transactions
+- Built scalable **Loan Management Systems** covering:
+  - Onboarding
+  - Disbursement
+  - Accruals
+  - Enterprise banking workflows
+- Implemented asynchronous task processing using:
+  - Celery
+  - Redis
+  - Distributed workers
+- Optimized APIs and database queries for low latency and better throughput
+- Worked extensively with:
+  - PostgreSQL
+  - SQLAlchemy
+  - Raw SQL
+- Designed fault-tolerant backend workflows for production-grade financial systems
+
+---
+
+### Software Engineer Intern — Affinsys AI
+📍 Bengaluru, India | 🗓️ Jan 2024 – July 2024
+
+- Developed backend onboarding services using:
+  - Python
+  - Django REST Framework
+- Integrated banking systems like:
+  - Finacle
+  - Compliance platforms
+- Built optimized REST APIs for high-volume onboarding systems
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 PYCHRONO
+**Python | NATS JetStream | Redis | AsyncIO**
+
+Distributed task scheduler built using event-driven architecture.
+
+#### Features
+- Distributed worker architecture
+- Async task execution
+- Retry & failure handling
+- Redis-backed scheduling
+- NATS JetStream messaging
+
+---
+
+### 🔹 EXPENSIFY APP
+**React.js | Node.js | Express.js | MongoDB**
+
+Expense tracking platform with filtering, authentication, and responsive UI.
+
+#### Features
+- Expense management
+- Search & filtering
+- Redux state management
+- Responsive dashboard
+
+---
+
+### 🔹 MONTAGE TUBE
+**React.js | Node.js | Video.js | MongoDB**
+
+Video streaming and upload platform for gaming montages.
+
+#### Features
+- Video uploads
+- Online streaming
+- User-generated content
+- Video.js integration
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijayant-07&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayant-07&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayant-07&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vijayant-singh-824ba9200/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+📫 Email: **vijayantsingh123@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building scalable systems, exploring distributed architectures, and solving complex backend engineering problems.
